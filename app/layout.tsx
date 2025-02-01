@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     title: "Veggy - Fresh Vegetable Home Delivery in Jaunpur",
     description:
       "Veggy brings fresh, locally sourced vegetables straight to your doorstep in Jaunpur, Uttar Pradesh. Enjoy farm-fresh produce with our convenient home delivery service.",
-    url: "https://www.veggy-jaunpur.com",
+    url: "https://myveggy.vercel.app",
     siteName: "Veggy",
     images: [
       {
@@ -76,7 +76,7 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: "https://www.veggy-jaunpur.com",
+    canonical: "https://myveggy.vercel.app",
  
   },
 }
